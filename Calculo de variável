@@ -1,0 +1,27 @@
+programa
+{
+	
+// crie um algoritimo que leia 5 numeros, calcule a soma de todos e mostre o resultado
+	funcao inicio()
+	{
+inteiro n, soma=0
+		escreva("digite o numero\n")
+		leia (n)
+		soma = soma+n
+		escreva ("digite o numero\n")
+		leia (n)
+		soma = soma+n
+		escreva ("digite o numero\n")
+		leia (n)
+		soma = soma+n
+		escreva ("digite o numero\n")
+		leia (n)
+		soma = soma+n
+		escreva ("digite o numero\n")
+		leia (n)
+		soma = soma+n
+	 	escreva ("o resultado é: ", soma)
+	 	escreva ("\nparabens")
+		
+		}
+}
