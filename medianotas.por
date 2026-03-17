@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+real nota1, nota2, nota3, soma, resultado
+	escreva ("Nota 1: ")
+	leia (nota1)
+	escreva ("Nota 2: ")
+	leia (nota2)
+	escreva ("Nota 3: ")
+	leia (nota3)
+	soma = nota1 + nota2 + nota3 
+	resultado = soma / 3
+	escreva ("A média do aluno é: ", resultado)
+	}
