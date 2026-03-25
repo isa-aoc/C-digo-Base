@@ -12,7 +12,7 @@ programa
 			leia (nota1)
 			escreva ("Escreva sua segunda nota: ")
 			leia (nota2)
-			media = nota1 + nota2 / 2
+			media = (nota1 + nota2) / 2
 			
 			se(media>=7){
 				escreva ("Aprovado")
